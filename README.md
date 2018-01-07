@@ -2,4 +2,4 @@
 
 Мои работы.
 
-http://metram/portfolio.github.io/
+http://portfolio.github.io/
